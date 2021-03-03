@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Calling home, I forgot my wallet!
 Use the left arrow to go back!
